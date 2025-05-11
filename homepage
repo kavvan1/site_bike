@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p> olha quem apareceu: {{ bike }} bixa entou</p>
+</body>
+</html>
